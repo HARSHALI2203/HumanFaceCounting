@@ -19,6 +19,7 @@ Ensure you have Python installed.
 Install the required dependencies using pip:
 
 pip install opencv-python-headless pillow
+
 python face_counting_app.py
 
 Usage:
